@@ -1,4 +1,4 @@
-# python
+# python game
 import random
 
 print("welcome to rock paper scissor game")
